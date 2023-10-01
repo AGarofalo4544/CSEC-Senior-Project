@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Misc. file types
+*.gz
+*.tex
+/Professor Meetings
+/Professor Meetings/*
